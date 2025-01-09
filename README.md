@@ -129,7 +129,6 @@ Hi there 👋
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-nazeemrahman434%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:nazeemrahman434@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B94_77_420_1434-green?style=for-the-badge&logo=whatsapp)](tel:+94774201434)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rahman-a58399259/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/abdul.rhman.186590)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abd.rahman.07/)
