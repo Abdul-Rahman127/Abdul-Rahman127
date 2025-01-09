@@ -28,8 +28,7 @@ Hi there 👋
 
 
 🎓 Educational Background
-<details>
-<summary><b>Academic Qualifications</b></summary>
+
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/Kingston%20University-UK-blue?style=for-the-badge" /></td>
