@@ -11,24 +11,16 @@
 
 ## 👨‍💻 About Me
 
-```typescript
-const abdulRahman = {
-    location: "Sri Lanka 🇱🇰",
-    age: 22,
-    currentRole: ["Intern Full Stack Developer", "Digital Marketing Specialist"],
-    education: {
-        university: "Kingston University, UK",
-        degree: "BSc (Hons) Computer Science Software Engineering",
-        specialization: "Software Engineering"
-    },
-    interests: ["Web Development", "Software Engineering", "Digital Marketing"],
-    languages: {
-        Tamil: "Native",
-        English: "Proficient",
-        Sinhala: "Proficient"
-    }
-};
-```
+
+Hi there 👋
+
+👨‍💻 I'm Abdul Rahman
+🎓 I'm 22 years old
+💻 I'm interested in Full Stack Development, Digital Marketing, and Software Engineering
+🎯 I'm currently pursuing BSc (Hons) in Computer Science at Kingston University, UK
+🌟 I'm also an Intern Full Stack Developer & Digital Marketing Specialist
+💼 I'm looking to collaborate on web development projects and digital marketing initiatives
+
 
 ## 🎓 Educational Background
 
