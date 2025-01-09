@@ -15,11 +15,17 @@
 Hi there 👋
 
 •	👨💻 I'm Abdul Rahman
+
 •	🎓 I'm 22 years old
+
 •	💻 I'm interested in Full Stack Development, Digital Marketing, and Software Engineering
+
 •	🎯 I'm currently pursuing BSc (Hons) in Computer Science at Kingston University, UK
+
 •	🌟 I'm also an Intern Full Stack Developer & Digital Marketing Specialist
+
 •	💼 I'm looking to collaborate on web development projects and digital marketing initiatives
+
 
 🎓 Education & Certifications
 <table>
