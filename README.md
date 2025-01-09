@@ -14,29 +14,24 @@
 
 Hi there 👋
 
-👨‍💻 I'm Abdul Rahman
-🎓 I'm 22 years old
-💻 I'm interested in Full Stack Development, Digital Marketing, and Software Engineering
-🎯 I'm currently pursuing BSc (Hons) in Computer Science at Kingston University, UK
-🌟 I'm also an Intern Full Stack Developer & Digital Marketing Specialist
-💼 I'm looking to collaborate on web development projects and digital marketing initiatives
+•	👨💻 I'm Abdul Rahman
+•	🎓 I'm 22 years old
+•	💻 I'm interested in Full Stack Development, Digital Marketing, and Software Engineering
+•	🎯 I'm currently pursuing BSc (Hons) in Computer Science at Kingston University, UK
+•	🌟 I'm also an Intern Full Stack Developer & Digital Marketing Specialist
+•	💼 I'm looking to collaborate on web development projects and digital marketing initiatives
 
-
-## 🎓 Educational Background
-
-<details>
-<summary><b>Academic Qualifications</b></summary>
-
-### 🏛️ Kingston University | UK
-- BSc (Hons) in Computer Science Software Engineering – Top Up
-- Focus on advanced software development principles
-  
-### 🎓 London Metropolitan University | UK
-- Pearson BTEC Level 5 Higher National Diploma
-- Specialization: Computing Software Engineering
-- Core focus on practical software development
-
-</details>
+🎓 Education & Certifications
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Kingston%20University-UK-blue?style=for-the-badge" /></td>
+    <td>BSc (Hons) in Computer Science Software Engineer – Top Up</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/London%20Metropolitan-UK-red?style=for-the-badge" /></td>
+    <td>Pearson BTEC Level 5 HND in Computing Software Engineer</td>
+  </tr>
+</table>
 
 ## 💻 Technical Arsenal
 
