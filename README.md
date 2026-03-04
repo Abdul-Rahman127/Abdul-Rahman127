@@ -16,8 +16,6 @@ Hi there 👋
 
 •	👨💻 I'm Abdul Rahman
 
-•	🎓 I'm 22 years old
-
 •	💻 I'm interested in Full Stack Development, Digital Marketing, and Software Engineering
 
 •	🎯 I'm currently pursuing BSc (Hons) in Computer Science at Kingston University, UK
